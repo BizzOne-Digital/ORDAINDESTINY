@@ -1,0 +1,60 @@
+{
+  "generator": "Built-in image_gen",
+  "note": "Generated concept artwork. Book cover is a design concept pending the actual client cover. Prompts below summarize the generation direction.",
+  "assets": [
+    {
+      "name": "royal-hero",
+      "file": "exec-5d478e8d-0acb-44ca-8b38-993e11c408e7.png",
+      "prompt": "Photorealistic luxury website hero background, landscape 3:2. Midnight navy and antique gold royal palace library with gilded stone arches on the right, golden sunlight and distant garden, dark uncluttered left two thirds for heading, marble and cream magnolias at edges. No books, text, logos or interface.",
+      "output": "/images/royal-hero.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 207140
+    },
+    {
+      "name": "ivory-library",
+      "file": "exec-279fd56f-7621-4848-9b90-a6cdbe26a65f.png",
+      "prompt": "Photorealistic luxury editorial background, landscape 3:2. Warm ivory and gold royal library, gilded moldings, cream bookshelves, softly lit arched window. White marble tabletop, small antique crown at far left, cream magnolias at far right, empty center for separate book mockup. No foreground books, people, text, logos or interface.",
+      "output": "/images/ivory-library.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 146450
+    },
+    {
+      "name": "navy-palace",
+      "file": "exec-99e16ef5-8e76-48d4-add6-10854af6a9de.png",
+      "prompt": "Photorealistic luxury palace background, landscape 3:2. Midnight navy vaulted royal hall with symmetrical antique gold columns at edges, subtle warm candles, distant arched doorway, cream flowers at bottom corners. Dark uncluttered center for service cards. No books, people, text, icons or interface.",
+      "output": "/images/navy-palace.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 206572
+    },
+    {
+      "name": "ivory-flowers",
+      "file": "exec-fd3f1867-700d-4103-bdda-7bbb5b944bbc.png",
+      "prompt": "Photorealistic premium floral still life, landscape 3:2, for luxury faith-based bookstore Ordain Destiny. Cream ivory magnolia flowers with a few delicate ivory roses, muted olive leaves, small antique gold botanical sprigs resting elegantly on warm ivory white marble tabletop, soft royal library background out of focus. Bouquet mainly on the right with airy clean ivory negative space to left. Warm morning sunlight, delicate realistic petal texture, subtle soft shadows, quiet regal elegant mood, antique gold #C6A052 and warm ivory #F8F4EB. No text, no typography, no watermark, no books, no people, no interface.",
+      "output": "/images/ivory-flowers.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 168358
+    },
+    {
+      "name": "book-cover",
+      "file": "exec-021db54c-ec62-4005-ba64-3ec4950aabff.png",
+      "prompt": "Flat front conceptual book cover, portrait 2:3, no perspective. Midnight navy leather, fine gold foil botanical rectangular border, small crown at top, readable gold serif title God, Divine Dogs and Royals, seated golden dog engraved below title, Princess Elector at bottom. Cover fills entire canvas. No other text, publisher logos or watermark.",
+      "output": "/images/book-cover.webp",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 701874
+    },
+    {
+      "name": "burgundy-offer",
+      "file": "exec-b2001cee-9bf1-46d4-bfbe-e7f503672da1.png",
+      "prompt": "Photorealistic luxury offer background, landscape 3:2. Deep burgundy silk with realistic folds, exquisite burgundy gift box with bow, gold ribbon and tiny crown on far lower left. Antique gold botanical leaves at edges. Dark empty burgundy center for website heading. No words, letters, UI or watermark.",
+      "output": "/images/burgundy-offer.webp",
+      "width": 1536,
+      "height": 1024,
+      "bytes": 130398
+    }
+  ]
+}
